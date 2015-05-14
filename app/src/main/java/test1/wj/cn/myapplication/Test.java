@@ -16,4 +16,5 @@ public class Test {
 	private int ef;
 	private int g;
 	private int h;
+	private int i;
 }
