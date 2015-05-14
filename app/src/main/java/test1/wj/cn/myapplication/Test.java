@@ -12,4 +12,5 @@ package test1.wj.cn.myapplication;
 public class Test {
 
 	public int ab;
+	private int cd;
 }
